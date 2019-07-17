@@ -1,1 +1,0 @@
-Made Using\n-OpenCV\n-Numpy\n-Tkinter\n In Python 3
